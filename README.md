@@ -1,7 +1,7 @@
 ### Hi there, I'm Re1own 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Re1own&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-My real name is zhouhuizhen, a college student who is from HLJIT.
+I'm focusing on IoT Security and doing research in Chinese Academy of Science.
 
 ## 💬 Program language for me
 
