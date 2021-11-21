@@ -10,6 +10,7 @@ I'm focusing on IoT Security
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡x86/8086/arm assemble language
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Java
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re1own&layout=compact"/>
 ## 💡 My status
 
 - 🌱 I’m a newer of IoT-Security
@@ -19,7 +20,6 @@ I'm focusing on IoT Security
 - 😄 ....
 - ⚡ Fun fact: ...
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re1own&layout=compact"/>
 
 ## 📮 How to reach me
 
