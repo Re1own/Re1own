@@ -19,6 +19,8 @@ I'm focusing on IoT Security
 - 😄 ....
 - ⚡ Fun fact: ...
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re1own&layout=compact"/>
+
 ## 📮 How to reach me
 
 - Twitter [@Kirirabit](https://twitter.com/Kirirabit)
