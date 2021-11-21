@@ -23,3 +23,7 @@ I'm focusing on IoT Security
 
 - Twitter [@Kirirabit](https://twitter.com/Kirirabit)
 - Email [Follow Up Here](mailto:re1own@qq.com)
+
+## Magic Number
+
+![Visited By](https://count.getloli.com/get/@Re1own?theme=gelbooru)
