@@ -13,13 +13,13 @@ I'm focusing on IoT Security
 ## 💡 My status
 
 - 🌱 I’m a newer of IoT-Security
-- 👯 ....
+- 👯 sole
 - 🤔 ....
-- 💬 CTFF
+- 💬 Vegetable and like CTF
 - 😄 ....
 - ⚡ Fun fact: ...
 
 ## 📮 How to reach me
 
 - Twitter [@Kirirabit](https://twitter.com/Kirirabit)
-- Email [Follow Up Here](mailto:595875338@qq.com)
+- Email [Follow Up Here](mailto:re1own@qq.com)
