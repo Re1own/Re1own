@@ -20,7 +20,6 @@ I'm focusing on IoT Security
 - 😄 ....
 - ⚡ Fun fact: ...
 
-
 ## 📮 How to reach me
 
 - Twitter [@Kirirabit](https://twitter.com/Kirirabit)
