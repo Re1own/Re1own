@@ -14,13 +14,13 @@ I'm focusing on IoT Security
 
 ## 💡 My status
 
-- 🌱 I’m a newer of IoT-Security
-- 💬 Vegetable and like CTF
-- ⚡ Fun fact: ...
+- 🌱 Focusing on IoT Security
+- 💬 Vegetable in CTF
+- ⚡ Binary Security Reasearch
 
 ## 📮 How to reach me
 
-- Twitter [@Kirirabit](https://twitter.com/Re1own)
+- Twitter [@Re1own](https://twitter.com/Re1own)
 - Email [Follow Up Here](mailto:re1own@qq.com)
 
 ## Contribution
