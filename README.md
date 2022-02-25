@@ -14,18 +14,15 @@ I'm focusing on IoT Security
 ## 💡 My status
 
 - 🌱 I’m a newer of IoT-Security
-- 👯 sole
-- 🤔 ....
 - 💬 Vegetable and like CTF
-- 😄 ....
 - ⚡ Fun fact: ...
 
 ## 📮 How to reach me
 
-- Twitter [@Kirirabit](https://twitter.com/Kirirabit)
+- Twitter [@Kirirabit](https://twitter.com/Re1own)
 - Email [Follow Up Here](mailto:re1own@qq.com)
 
-## Snake
+## Contribution
 ![](https://github.com/Re1own/Re1own/raw/output/github-contribution-grid-snake.svg)
 
 ## Magic Number
