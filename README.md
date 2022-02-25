@@ -26,7 +26,7 @@ I'm focusing on IoT Security
 - Email [Follow Up Here](mailto:re1own@qq.com)
 
 ## Snake
-![](https://raw.githubusercontent.com/Re1own/Re1own/main/assets/github-contribution-grid-snake.svg)
+![](https://github.com/Re1own/Re1own/raw/output/github-contribution-grid-snake.svg)
 
 ## Magic Number
 
