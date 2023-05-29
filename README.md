@@ -7,7 +7,6 @@ I focus on Hardware Security
 
 
 
-## Contribution
 ![](https://github.com/Re1own/Re1own/raw/output/github-contribution-grid-snake.svg)
 
 ## Magic Number
