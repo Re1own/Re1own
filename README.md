@@ -23,6 +23,9 @@ I'm focusing on IoT Security
 - Twitter [@Re1own](https://twitter.com/Re1own)
 - Email [Follow Up Here](mailto:re1own@qq.com)
 
+## Contribution
+![](https://github.com/Re1own/Re1own/raw/output/github-contribution-grid-snake.svg)
+
 ## Magic Number
 
 ![Visited By](https://count.getloli.com/get/@Re1own?theme=gelbooru)
